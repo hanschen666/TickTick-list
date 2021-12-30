@@ -35,7 +35,7 @@ function getSavedColumns() {
       "try to write something to backlog",
       "getting start to use this ticktick app to record things that you plan to do",
       "you can add new item or edit the exist item",
-      "you can move items to different states (for example, you can move items from the backlog to the Progress status list)."
+      "you can move items to different states (for example, you can move items from the backlog to the Progress status list)"
     ];
     progressListArray = [];
     completeListArray = [];
